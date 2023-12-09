@@ -26,25 +26,25 @@ const songs=[
     {
         artistName: "Fireboy DML",
         songName:"Sofri",
-        img:"images/musci1.png",
+        img:"images/music.png",
         music:"musics/Sofri.mp3"
     },
     {
         artistName: "Bhakti",
         songName:"Rintone",
-        img:"images/music2.png",
+        img:"images/music.png",
         music:"musics/music1.mpeg"
     },
     {
         artistName: "Zinoleesky",
         songName:"Loving-You",
-        img:"images/music3.png",
+        img:"images/music.png",
         music:"musics/Loving-You.mp3"
     },
     {
         artistName: "Unknown",
         songName:"Song",
-        img:"images/music4.png",
+        img:"images/music.png",
         music:"musics/music3.mpeg"
     },
 ];
